@@ -1,0 +1,86 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+body
+{
+    background-image: url("https://images.pexels.com/photos/5167249/pexels-photo-5167249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size:cover;
+}
+#start
+{
+    color: white;
+    background-color: black;
+    height: 50px;
+    font-size: 40px;
+    font-family: Segoe UI;
+    padding: 0px 5px 5px 20px  ;
+    font-weight: bold;
+}
+#padd
+{
+    height: 130px;
+}
+#welcome
+{
+    text-align:center;
+    color: black;
+    font-size: 120px;
+    font-family:"Cursive", "Lucida Handwriting";
+}
+h1
+{
+    padding-top: 30px;
+    text-align:center;
+    font-size: 50px;
+    font-family:"Cursive", "Lucida Handwriting";
+    font-weight: bold;
+}
+#content {
+    background-color: black;
+    height: 430px;
+    color:white;
+    font-family: Segoe UI;
+    text-align:center;
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+img{
+    padding-top: 20px;
+    padding-left: 5px;
+    height: 300px;
+}
+.btn
+{
+    background-color: rgb(60, 117, 223);
+    border: 5px;
+    padding: 5px 10px 10px 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: Segoe UI;
+    font-weight: bold;
+}
+#desc
+{
+    background-color: white;
+    height:100px;
+    padding: 60px 50px 60px 50px;
+    font-size: x-large;
+    font-weight: bold;
+}
+#bottom
+{
+    background-color: gray;
+    height: 230px;
+}
+.last
+{
+ padding: 45px 15px 45px 15px;
+ background-color:grey;
+ height: 100px;
+ font-size: 20px;
+ font-weight: bold;
+ text-align: center;
+}
